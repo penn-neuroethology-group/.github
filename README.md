@@ -1,1 +1,1 @@
-# .github
+# Penn Neuroethology Group
